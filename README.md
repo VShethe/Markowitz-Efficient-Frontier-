@@ -9,10 +9,11 @@
 
 
 **1. NSE - Markowitz Efficient Frontier**
- -  Markowitz Efficient Frontier - SETFNN50, INFY.ipynb
+ - Markowitz Efficient Frontier - SETFNN50, INFY
+ - Calculating Beta of Stocks
 
 **2. USA Stocks -  Markowitz Efficient Frontier**
- - Markowitz Efficient Frontier - SETFNN50, INFY.ipynb
+ - Markowitz Efficient Frontier - SETFNN50, INFY
  - Markowitz Efficient Frontier  - PG, MSFT, BP
  
 ## Normalization of Data:
